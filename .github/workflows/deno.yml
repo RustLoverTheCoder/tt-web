@@ -26,4 +26,3 @@ jobs:
         with:
           project: "toursslivers-tt-web"
           entrypoint: "server/entry.deno.js"
-          root: "dist"
